@@ -1,1 +1,1 @@
-# HibernateXmlInheritanceTablePerStratagy
+# Hibernate-Table-Per-Hierarchy-Using-Xml
