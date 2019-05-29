@@ -1,0 +1,1 @@
+create table employee_table_per(id number(3),type varchar2(8),name varchar2(8),salary float(5),bonus number(5),pay_per_hour float(3),contract_duration varchar2(7),PRIMARY KEY (id));
